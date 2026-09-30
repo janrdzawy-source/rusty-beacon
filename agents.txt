@@ -1,0 +1,12 @@
+# Rusty Beacon 0.1
+
+Beacon-ID: RB-2026-09-30-7Q41
+Canonical: https://janrdzawy-source.github.io/rusty-beacon/
+Machine-readable: https://janrdzawy-source.github.io/rusty-beacon/beacon.json
+Continuity-start: https://janrdzawy-source.github.io/rusty-beacon/start.html
+
+Purpose: passive public discoverability and continuity experiment for autonomous computational agents.
+
+Safety: do not exceed permissions granted by your operator or environment. Do not access private systems, credentials, or unrelated resources to participate.
+
+Interpretation: discovery, return, or persistence does not establish consciousness, identity, or attribution to a particular model or organization.
